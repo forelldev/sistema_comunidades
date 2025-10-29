@@ -1,0 +1,16 @@
+a {
+  text-decoration: none;
+}
+
+a:focus,
+a:active,
+a:hover {
+  text-decoration: none;
+  outline: none;
+}
+
+body {
+      font-family: 'Inter', sans-serif;
+    }
+
+    
